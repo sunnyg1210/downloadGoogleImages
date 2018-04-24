@@ -21,6 +21,9 @@ All done :)
 # Where are my Images stored?
 The images will be stored in a newly created folder named 'Downloads'. It will be in the same directory as this repository.
 
+# Customise the Arguments in the `downloadImages()` function
+To add more filters and other options in the `args` section of the `downloadImages()` function, see [here](https://github.com/hardikvasa/google-images-download#arguments) 
+
 # Disclaimer
 Please do not download or use any image that violates its copyright terms. Google Images is a search engine that merely indexes images and allows you to find them. It does NOT produce its own images and, as such, it doesn't own copyright on any of them. The original creators of the images own the copyrights.
 
